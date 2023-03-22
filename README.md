@@ -1,4 +1,4 @@
-Để cài đặt các package yêu cầu :
+To install packages :
 ### `yarn install` hoặc `npm install`
-Để chạy server node js :
+To run server node js :
 ### `yarn start` hoặc `npm start`
